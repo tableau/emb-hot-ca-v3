@@ -101,6 +101,8 @@ def getJWT():
     global username
     if request.method == 'POST':
         username = request.form['username']
+        uaf = ["Central","East","West","South"]
+        if username == 'd.wong@sunniefoods.com' : uaf = ["Central"]
         print(username)
         CA_SSO_token = jwt.encode(
             {
@@ -113,7 +115,7 @@ def getJWT():
                 "aud": "tableau",
                 "sub": username,
                 #//-- Lesson 4, do not change this code until we reach this part of the course
-                #"myuaf": uaf,
+                "myuaf": uaf,
                 #-- End of Lesson 4--//
                 "scp": ["tableau:views:embed", "tableau:metrics:embed"]
             },
