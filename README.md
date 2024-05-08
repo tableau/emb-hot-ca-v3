@@ -1,4 +1,4 @@
-# emb-hot-ca-v3
+# Tableau Embedded Analytics Hands-on Course
 
 This is course material for the Hands-on-training session at Tableau Conference 2024 titled:  <i>Charting the Globe: Embedded Analytics Expedition</i>
 
