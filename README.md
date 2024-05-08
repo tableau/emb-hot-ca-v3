@@ -4,7 +4,7 @@ This is course material for the Hands-on-training session at Tableau Conference 
 
 This hands-on course is a tour of embedded analytics and will showcase how deeply Tableau can be integrated into your customer-facing applications. 
 
-Clone the tc24 repo and follow along with the <a href="https://github.com/tableau/emb-hot-ca-v3/blob/tc24/TC24-embedding-instructions-manual.pdf">step-by-step instructions manual</a>. You'll cover embedding, user authentication single-sign-on, data security, and more.
+Clone the tc24 branch and follow along with the <a href="https://github.com/tableau/emb-hot-ca-v3/blob/tc24/TC24-embedding-instructions-manual.pdf">step-by-step instructions manual</a>. You'll cover embedding, user authentication single-sign-on, data security, and more.
 
 Review <a href="https://github.com/tableau/emb-hot-ca-v3/blob/tc24/TC24-embedding-expedition-slides.pdf">the slides</a> to see what was covered in the hands-on session.
 
