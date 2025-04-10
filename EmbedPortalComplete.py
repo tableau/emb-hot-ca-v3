@@ -24,8 +24,8 @@ hotUser = 'byohotembed'
 
 # initializing global variables
 username = ''
-tabServer = 'https://eu-west-1a.online.tableau.com'
-tabSite = 'embeddedhot'
+tabServer = 'https://10ay.online.tableau.com/'
+tabSite = 'tc25embed'
 tabWorkbook = 'workbook_' + hotUser
 tabRedirect = 'redirect_' + hotUser
 
